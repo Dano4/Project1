@@ -1,2 +1,2 @@
 # Project1
-# to je len skuska
+# to je len sksa
