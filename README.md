@@ -1,2 +1,1 @@
-# Project1
-#  teraz je to dobre
+# Project1, verzia SECOND
