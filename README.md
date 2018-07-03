@@ -1,2 +1,2 @@
 # Project1
-# to je len sksa
+#  teraz je to dobre
